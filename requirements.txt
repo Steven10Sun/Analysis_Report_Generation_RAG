@@ -11,3 +11,4 @@ torch
 torchvision
 torchaudio
 langchain_openai
+docx
