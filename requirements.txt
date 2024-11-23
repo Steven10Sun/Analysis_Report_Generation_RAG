@@ -11,4 +11,7 @@ torch
 torchvision
 torchaudio
 langchain_openai
-docx
+python-docx
+rouge
+nltk
+bert-score

@@ -18,7 +18,7 @@ def export_prompt_response(file_name, prompt_response):
     print(f"JSON data has been exported to {json_file_path}")
 
 def export_article(file_name, report):
-    folder_path = '2_article_log'
+    folder_path = '2_report_log'
 
     # Get the current datetime
     current_datetime = datetime.now().strftime('%Y%m%d_%H%M')
