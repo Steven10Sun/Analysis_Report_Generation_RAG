@@ -1,0 +1,17 @@
+numpy==1.26.4
+scipy
+scikit-learn
+openai
+PyPDF2
+langchain
+langchain_community
+transformers
+spacy
+torch
+torchvision
+torchaudio
+langchain_openai
+python-docx
+rouge
+nltk
+bert-score
