@@ -6,7 +6,7 @@ def export_prompt_response(file_name, prompt_response):
     folder_path = '1_prompt_log'
 
     # Get the current datetime
-    current_datetime = datetime.now().strftime('%Y%m%d_%H%M')
+    current_datetime = datetime.now().strftime('%Y%m%d%H')
 
     # Define the JSON file path with datetime suffix
     json_file_path = os.path.join(folder_path, f'{file_name}_{current_datetime}.json')
@@ -21,7 +21,7 @@ def export_article(file_name, report):
     folder_path = '2_report_log'
 
     # Get the current datetime
-    current_datetime = datetime.now().strftime('%Y%m%d_%H%M')
+    current_datetime = datetime.now().strftime('%Y%m%d%H')
 
     # Define the JSON file path with datetime suffix
     report_path = os.path.join(folder_path, f'{file_name}_{current_datetime}.txt')
