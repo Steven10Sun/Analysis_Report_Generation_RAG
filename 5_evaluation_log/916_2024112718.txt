@@ -1,0 +1,462 @@
+Here is the verification of the report against the provided keywords:
+
+1. **"Longyuan Power's revenue mainly comes from electricity sales"**  
+   - **Original Text:** The company's revenue structure is primarily categorized into several segments, including energy storage equipment rental, repair services, and commodity material sales.  
+   
+2. **"The main factors affecting electricity sales revenue are the amount of electricity fed into the grid"**  
+   - **Original Text:** The wind power segment reported an 18.9% decline in operating profit, primarily due to reduced electricity sales and rising operational costs.  
+   
+3. **"The grid-connected electricity price is also a key factor"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+4. **"The amount of electricity fed into the grid is influenced by two factors"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+5. **"These factors are installed capacity and utilization hours"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+6. **"Installed Capacity: As of the end of June this year, the company's total controlled installed capacity was 37.88 GW"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+7. **"This reflects an increase of 6.257 GW"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+8. **"The increase represents 19.8% year-over-year"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+9. **"Among this, the wind power installed capacity was 28.349 GW"**  
+   - **Original Text:** (Not specifically mentioned in the report.)  
+   
+10. **"This is an increase of 2.032 GW year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+11. **"It accounts for 7.7% growth"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+12. **"Compared to the end of 2023, wind power installed capacity increased by 0.595 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+13. **"Wind power installed capacity accounts for 74.84% of the total installed capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+14. **"Thermal power installed capacity was 1.875 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+15. **"This figure remained unchanged year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+16. **"Compared to the end of 2023, thermal power installed capacity also remained unchanged"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+17. **"Thermal power installed capacity accounts for 4.95% of the total installed capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+18. **"Other renewable energy installed capacity was 7.656 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+19. **"This includes mainly photovoltaic energy"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+20. **"There was an increase of 4.225 GW year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+21. **"This represents a growth of 123%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+22. **"Compared to the end of 2023, it increased by 1.692 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+23. **"Other renewable energy installed capacity accounts for 20.21% of the total installed capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+24. **"The company added 47 new projects in the first half of the year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+25. **"This increased the controlled installed capacity by 2.28673 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+26. **"Among these, 7 were wind power projects"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+27. **"Wind power projects increased the controlled installed capacity by 0.595 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+28. **"Forty were photovoltaic projects"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+29. **"Photovoltaic projects increased the controlled installed capacity by 1.69173 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+30. **"This includes 7 acquired projects adding 0.4954 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+31. **"The increase in controlled installed capacity was mainly in photovoltaic"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+32. **"Electricity Sales: In the first half of 2024, total electricity sales were 39.005 billion kWh"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+33. **"This marks an increase of 1.22% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+34. **"The growth rate is lower than the growth rate of installed capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+35. **"Company Revenue Structure: Wind Power: In the first half of 2024, revenue from wind power sales was 13.781 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+36. **"This reflects a decrease of 9.4% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+37. **"Wind power installed capacity increased by 7.7%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+38. **"However, the average utilization hours were only 1,170 hours"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+39. **"This is a decrease of 101 hours year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+40. **"The main reason is weaker wind resources this year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+41. **"The average wind speed was 5.85 meters per second"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+42. **"This is a decrease of 0.25 meters per second year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+43. **"This led to a 4.6% decrease in wind power generation"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+44. **"The average grid-connected electricity price for wind power was 440 yuan per MWh"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+45. **"This is a decrease of 28 yuan per MWh year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+46. **"The decrease is mainly due to non-subsidized parity projects"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+47. **"The expansion of wind power market transactions influenced prices"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+48. **"The average market transaction price was 390.4 yuan per MWh"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+49. **"This marked a decrease of 26 yuan per MWh year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+50. **"Wind power revenue accounts for 73% of total revenue"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+51. **"Thermal Power: The business includes the sale of thermal power and coal"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+52. **"In the first half of 2024, revenue from thermal power sales was 1.854 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+53. **"This reflects a decrease of 2.5% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+54. **"The average utilization hours for thermal power units were only 2,618 hours"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+55. **"This is a decrease of 64 hours compared to the same period in 2023"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+56. **"The decline is mainly due to rapid growth in new energy capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+57. **"New energy installations in Jiangsu squeezed thermal power distribution channels"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+58. **"The grid-connected electricity price for thermal power was 415 yuan per MWh"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+59. **"This remained unchanged year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+60. **"Additionally, revenue from coal sales was 1.541 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+61. **"This reflects an increase of 2.3% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+62. **"Overall, the thermal power business remained stable"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+63. **"Thermal power revenue accounts for 20.3% of total revenue"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+64. **"Photovoltaic: In the first half of 2024, revenue from photovoltaic power sales was 945 million yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+65. **"This marks an increase of 98.9% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+66. **"This increase was mainly due to a 123% rise in installed capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+67. **"This drove a 122.87% increase in power generation"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+68. **"The average grid-connected electricity price for photovoltaic power was 283 yuan per MWh"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+69. **"This is a decrease of 31 yuan per MWh year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+70. **"The decrease is mainly due to non-subsidized parity projects"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+71. **"Photovoltaic power sales revenue accounts for 5% of total revenue"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+72. **"Net Profit: In the first half of 2024, the net profit attributable to shareholders was 4.02 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+73. **"This reflects a decrease of 21.6% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+74. **"The reasons for the larger decline in net profit are notable"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+75. **"Depreciation and amortization expenses increased by 297 million yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+76. **"This is a rise of 5.6% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+77. **"Depreciation and amortization expenses for photovoltaic increased by 157.7%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+78. **"Wind power depreciation and amortization increased by 0.4%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+79. **"Employee costs increased by 176 million yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+80. **"This represents an increase of 8.1% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+81. **"The increase is mainly due to a higher number of employees"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+82. **"This is linked to the growth of photovoltaic and wind power projects"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+83. **"Transition of related employee costs from capitalized to expensed also contributed"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+84. **"Notable Points: The company's net debt-to-equity ratio increased by 16.5 percentage points"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+85. **"This rise brought the ratio to 144%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+86. **"Increased capital expenditures resulted from higher installed capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+87. **"Capital expenditures in the first half of the year increased by 29.6%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+88. **"Total capital expenditures reached 12.038 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+89. **"Of this, 7.036 billion yuan was invested in wind power capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+90. **"4.739 billion yuan was invested in photovoltaic capacity"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+91. **"Free cash outflow in the first half of the year increased by 785%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+92. **"The total free cash outflow reached 5.677 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+93. **"Operating cash flow decreased by 13.6% to 6.95 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+94. **"This decrease was mainly due to lower wind power utilization hours"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+95. **"Net cash outflow for investments increased by 13% to 12.627 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+96. **"Subsidy Recovery: In the first half of the year, the company recovered 443 million yuan in national subsidies"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+97. **"This represents a decrease of 16% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+98. **"As of the end of June, total subsidy receivables were 38.2 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+99. **"This is equivalent to 5 HKD per share"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+100. **"The receivables increased by 17% compared to the end of last year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+101. **"Renewable energy subsidies are typically concentrated in the second half of the year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+102. **"Especially in the fourth quarter"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+103. **"The annual recovery is around 5 billion yuan"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+104. **"Summary: Longyuan Power's performance in the first half of the year was below market expectations"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+105. **"The net profit attributable to shareholders reached only 52% of market expectations"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+106. **"Longyuan Power's full-year net profit is typically 76% in the first half"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+107. **"The profit contribution is primarily from wind power"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+108. **"Wind speed in the first half is usually stronger than in the second half"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+109. **"Reasons for Lower-than-Expected Profit in the First Half: Wind power utilization hours were lower than expected"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+110. **"Grid-connected electricity prices were also lower than anticipated"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+111. **"The effective tax rate increased by 1.4 percentage points year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+112. **"This increase was mainly due to expiration of tax incentives"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+113. **"The proportion of minority interests in new projects increased"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+114. **"Future Outlook: The company maintains its target of adding 7.5 GW of new installed capacity in 2024"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+115. **"Wind power is expected to account for 40% of this growth"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+116. **"Photovoltaic power is expected to account for 60%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+117. **"The company's 14th Five-Year Plan target for installed capacity remains unchanged"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+118. **"The goal is to double the 2020 installed capacity of 22.8 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+119. **"The target is to reach 50 GW by the end of 2025"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+120. **"Offshore wind power is a key development direction"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+121. **"The company has won bids for 2.6 GW of offshore wind projects"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+122. **"This includes Jiangsu Sheyang 1 GW"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+123. **"Construction for Jiangsu Sheyang started in September"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+124. **"The aim is for partial commissioning by the end of the year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+125. **"Hainan Dongfang 500 MW project aims to start construction within the year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+126. **"Fujian Mazu Island 300 MW aims to start construction by the end of this year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+127. **"Alternatively, it may start next year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+128. **"Meizhou Bay 400 MW is currently in the preliminary preparation stage"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+129. **"Guangdong Jiangmen 400 MW aims to start construction by the end of the year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+130. **"Latest Data: Longyuan Power's latest electricity generation data for September 2024 is encouraging"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+131. **"According to consolidated financial statements, the company generated 5,591,501 MWh"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+132. **"This marks an increase of 16.94% year-over-year"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+133. **"Wind power generation increased by 28.64%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+134. **"This increase benefits from strong winds in central and eastern regions"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+135. **"Particularly in Henan, Shanghai, and Jiangsu"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+136. **"Utilization hours increased by 19.4% to 165 hours"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+137. **"This compares to a decrease of 7% to 111 hours in August"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+138. **"Other renewable energy generation increased by 34.53%"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+139. **"Overall performance reflects strong operational capabilities"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+140. **"The company is focused on sustainable development strategies"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+141. **"Future investments will target high-growth sectors"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+142. **"The competitive landscape will continue to evolve"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+143. **"Longyuan Power aims to enhance its market position"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+144. **"Stakeholder engagement remains a priority"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+145. **"Continuous assessment of market trends will guide strategies"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+146. **"The management team is dedicated to achieving long-term goals"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+   
+147. **"Longyuan Power is committed to leading in renewable energy"**  
+    - **Original Text:** (Not specifically mentioned in the report.)  
+
+### Summary of Findings
+The report fails to cover any of the key points from the keywords.
+
+### Score
+- Matched Items: 0
+- Total Items: 147
+- Percentage Matched: 0% 
+
+Final Output:
+``` 
+[
+    ("Longyuan Power's revenue mainly comes from electricity sales", ""),
+    ("The main factors affecting electricity sales revenue are the amount of electricity fed into the grid", "The wind power segment reported an 18.9% decline in operating profit, primarily due to reduced electricity sales and rising operational costs."),
+    ("The grid-connected electricity price is also a key factor", ""),
+    ...
+    ("Longyuan Power is committed to leading in renewable energy", "")
+]
+``` 
+Score: 0 out of 147 (0%)

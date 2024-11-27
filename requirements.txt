@@ -1,4 +1,5 @@
 numpy==1.26.4
+tqdm
 scipy
 scikit-learn
 openai
@@ -12,6 +13,7 @@ torchvision
 torchaudio
 langchain_openai
 python-docx
+openpyxl
 rouge
 nltk
 bert-score

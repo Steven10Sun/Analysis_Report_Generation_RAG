@@ -41,6 +41,26 @@ def write_report_prompt(content):
     return system_prompt
 
 
+def evaulate_keyword_prompt(keywords, report):
+    system_prompt = f"""You are a checker.
+    Task:
+    Verify if the report covers all the key points listed in the keywords.
+    The wording in the report does not need to match the keywords exactly; similar meanings are acceptable.
+    Output:
+    Provide a list of tuples:
+    First item: The key point from the keywords.
+    Second item: The original text from the report that covers the point. If the report does not cover the point, leave this item blank.    
+    Finally, give me the score how much items and percentage are matched.
+    
+    keywords:
+    {keywords}
+
+    report:
+    {report}
+    """
+    return system_prompt
+
+
 def generate_response(prompt, api_key, system_content='you are a assistant'):
     model = 'gpt-4o-mini'
     url = "https://api.ohmygpt.com/v1/chat/completions"

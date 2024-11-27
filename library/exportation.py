@@ -32,3 +32,17 @@ def export_article(file_name, report):
         
     print(f"report has been exported to {report_path}")
 
+def export_evaluation_result(file_name, result):
+    folder_path = '5_evaluation_log'
+
+    # Get the current datetime
+    current_datetime = datetime.now().strftime('%Y%m%d%H')
+
+    # Define the JSON file path with datetime suffix
+    report_path = os.path.join(folder_path, f'{file_name}_{current_datetime}.txt')
+
+    # Write JSON data to a file
+    with open(report_path, 'w') as txt_file: 
+        txt_file.write(result)
+        
+    print(f"report has been exported to {report_path}")
