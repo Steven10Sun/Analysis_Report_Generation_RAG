@@ -47,10 +47,10 @@ def evaulate_keyword_prompt(keywords, report):
     Verify if the report covers all the key points listed in the keywords.
     The wording in the report does not need to match the keywords exactly; similar meanings are acceptable.
     Output:
-    Provide a list of tuples:
+    If report has the message from the keyword, please show the answer with the format below:
     First item: The key point from the keywords.
-    Second item: The original text from the report that covers the point. If the report does not cover the point, leave this item blank.    
-    Finally, give me the score how much items and percentage are matched.
+    Second item: The original text from the report that covers the point.
+    Please provide the score indicating how many keywords matched, along with the percentage
     
     keywords:
     {keywords}
