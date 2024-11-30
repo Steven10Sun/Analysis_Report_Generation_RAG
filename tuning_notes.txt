@@ -1,0 +1,12 @@
+ver1
+Evaluation_log/916_2024112718.txt
+Tuning: use a bunch of keywords to match with the whole report
+Performance: 0/140 matched, the report has a few number
+
+questions: 100
+keywords: ask ChatGPT list the key points from sample report 
+report: generate report based on question and response without tunning
+evaluation method: check if the generated report contains the key points
+
+
+

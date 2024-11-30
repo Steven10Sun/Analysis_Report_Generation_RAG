@@ -2,8 +2,8 @@ import os
 import json
 from datetime import datetime
 
-def export_prompt_response(file_name, prompt_response):
-    folder_path = '1_prompt_log'
+def export_prompt_response(verion, file_name, prompt_response):
+    folder_path = os.path.join(verion, '1_prompt_log')
 
     # Get the current datetime
     current_datetime = datetime.now().strftime('%Y%m%d%H')
@@ -17,8 +17,8 @@ def export_prompt_response(file_name, prompt_response):
 
     print(f"JSON data has been exported to {json_file_path}")
 
-def export_article(file_name, report):
-    folder_path = '2_report_log'
+def export_article(version, file_name, report):
+    folder_path = os.path.join(version, '2_report_log')
 
     # Get the current datetime
     current_datetime = datetime.now().strftime('%Y%m%d%H')
