@@ -8,5 +8,10 @@ keywords: ask ChatGPT list the key points from sample report
 report: generate report based on question and response without tunning
 evaluation method: check if the generated report contains the key points
 
+ver2
+Tuning: 
+question reduce to 50
+as_question_prompt is change to provide statistic description and increase the maximium sentence to 5
+
 
 
