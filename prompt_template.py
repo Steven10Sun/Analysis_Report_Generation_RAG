@@ -43,7 +43,26 @@ def write_report_prompt(content):
     return system_prompt
 
 
-def evaulate_keyword_prompt(keywords, report):
+def evaulate_keyword_prompt1(keywords, report):
+    system_prompt = f"""You are a checker.
+    Task:
+    Verify if the report covers all the key points listed in the keywords.
+    The wording in the report does not need to match the keywords exactly; similar meanings are acceptable.
+    Output:
+    If report has the message from the keyword, please show the answer with the format below:
+    First item: The key point from the keywords.
+    Second item: The original text from the report that covers the point.
+    Please provide the score indicating how many keywords matched, along with the percentage
+    
+    keywords:
+    {keywords}
+
+    report:
+    {report}
+    """
+    return system_prompt
+
+def evaulate_keyword_prompt2(keywords, report):
     system_prompt = f"""You are a checker.
     Task:
     Verify if the report covers all the key points listed in the keywords.
