@@ -62,22 +62,23 @@ def evaulate_keyword_prompt1(keywords, report):
     """
     return system_prompt
 
-def evaulate_keyword_prompt2(keywords, report):
+def validate_response_prompt(question, expected_value, response):
     system_prompt = f"""You are a checker.
     Task:
-    Verify if the report covers all the key points listed in the keywords.
-    The wording in the report does not need to match the keywords exactly; similar meanings are acceptable.
-    Output:
-    If report has the message from the keyword, please show the answer with the format below:
-    First item: The key point from the keywords.
-    Second item: The original text from the report that covers the point.
-    Please provide the score indicating how many keywords matched, along with the percentage
-    
-    keywords:
-    {keywords}
+    Based on the question and expected outcome, verify if the response convey the same meaning with the expected outcome; similar meanings are acceptable. Similar meanings are acceptable.
 
-    report:
-    {report}
+    Output:
+    1 if they present the same message.
+    Provide the original sentense of expected message if response is wrong.
+
+    question:
+    {question}
+    
+    expected message:
+    {expected_value}
+
+    response:
+    {response}
     """
     return system_prompt
 
