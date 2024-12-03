@@ -11,7 +11,9 @@ evaluation method: check if the generated report contains the key points
 ver2
 Tuning: 
 question reduce to 50
-as_question_prompt is change to provide statistic description and increase the maximium sentence to 5
+ask_question_prompt is change to provide statistic description and increase the maximium sentence to 5
 
 
-
+ver3
+Tuning: 
+chunking size: 1000 to 500, top_N: 3 to 5, overlap: 200 to 100 

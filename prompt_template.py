@@ -65,7 +65,8 @@ def evaulate_keyword_prompt1(keywords, report):
 def validate_response_prompt(question, expected_value, response):
     system_prompt = f"""You are a checker.
     Task:
-    Based on the question and expected outcome, verify if the response convey the same meaning with the expected outcome; similar meanings are acceptable. Similar meanings are acceptable.
+    Based on the question and expected outcome, verify if the response convey the same meaning with the expected outcome; 
+    similar meanings are acceptable. Similar meanings are acceptable.
 
     Output:
     1 if they present the same message.
