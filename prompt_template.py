@@ -8,6 +8,99 @@ def define_company_prompt(content):
     """
     return system_prompt
 
+
+def company_overview_prompt(questions):
+    system_prompt = f"""
+You task is to perform following actions.
+1. Analyse the questions delimited by triple backticks. 
+2. Extract the questions that is related to company overview from the list below. 
+```{questions}```
+
+Provide at least 8 most relevant questions form the list above. Can be more questions if available.
+
+Output format as json. No any additional formatting or backticks
+key is question, value is ""
+
+Expected output:
+{{question: "", question: "", '''}}
+
+"""
+    return system_prompt
+    
+def revenue_structure_prompt(questions):
+    system_prompt = f"""
+You task is to perform following actions.
+1. Analyse the questions delimited by triple backticks. 
+2. Extract the questions that is related to revenue structure from the list below. 
+```{questions}```
+
+Provide at least 8 most relevant questions form the list above. Can be more questions if available.
+
+Output format as json. No any additional formatting or backticks
+key is question, value is ""
+
+Expected output:
+{{question: "", question: "", '''}}
+
+"""
+    return system_prompt
+
+def profit_prompt(questions):
+    system_prompt = f"""
+You task is to perform following actions.
+1. Analyse the questions delimited by triple backticks. 
+2. Extract the questions that is related to profit from the list below. 
+```{questions}```
+
+Provide at least 8 most relevant questions form the list above. Can be more questions if available.
+
+Output format as json. No any additional formatting or backticks
+key is question, value is ""
+
+Expected output:
+{{question: "", question: "", '''}}
+
+"""
+    return system_prompt
+
+def valuation_prompt(questions):
+    system_prompt = f"""
+You task is to perform following actions.
+1. Analyse the questions delimited by triple backticks. 
+2. Extract the questions that is related to valuation from the list below. 
+```{questions}```
+
+Provide at least 8 most relevant questions form the list above. Can be more questions if available.
+
+Output format as json. No any additional formatting or backticks
+key is question, value is ""
+
+Expected output:
+{{question: "", question: "", '''}}
+
+"""
+    return system_prompt
+
+
+def future_outlook_prompt(questions):
+    system_prompt = f"""
+You task is to perform following actions.
+1. Analyse the questions delimited by triple backticks. 
+2. Extract the questions that is related to future outlook from the list below. 
+```{questions}```
+
+Provide at least 8 most relevant questions form the list above. Can be more questions if available.
+
+Output format as json. No any additional formatting or backticks
+key is question, value is ""
+
+Expected output:
+{{question: "", question: "", '''}}
+
+"""
+    return system_prompt
+
+
 def ask_question_prompt(content, question):
     system_prompt = f"""You are an financial analyst.
     Use the following pieces of retrieved context to answer the question. 
@@ -23,22 +116,34 @@ def ask_question_prompt(content, question):
     """
     return system_prompt
 
-# pending: seperate to 5 report format
+
+def write_sector_prompt(specific_topic, topic):
+    system_prompt = f"""You are a financial report writer helping company to write a {topic} report.
+    Write a summary based on the contents delimited by triple backticks.
+    
+    The report audience is analyst. 
+    So, keep the statistics and number in detail if the content provides.
+
+    Generate 200 to 500 words. 
+    
+    contents: ```{specific_topic}```
+
+    """
+    return system_prompt
+
+
 def write_report_prompt(content):
     system_prompt = f"""You are a financial report writer. 
-    Please combine the text provided and generate a financial analysis report. 
-    The report should be about 15 to 20 paragraphs. 
-    The report should include the following sections. Please include statistics description and numbers for the points.
-    1. Company Overview
-    2. Revenue Structure
-    3. Profit
-    4. Valuation
-    5. Summary
-    6. Future Outlook
-    7. and other details provided.
+    Format the text delimited by triple backticks.
+    You have the following task to do:
+    1. provide a title for each element of the list
+    2. write a report using all the content from the list
+    4. keep all the content and all the number from the list in detail. Do not summarise the content avoiding lose the number.
+    5. 15 to 20 paragraphs for the whole report. 
+
+    at the end of the report, add a summary to summarize the main points from the report.
     
-    content is as below:
-    {content}
+    ```{content}```
     """
     return system_prompt
 
