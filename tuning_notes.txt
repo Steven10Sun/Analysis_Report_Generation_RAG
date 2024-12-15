@@ -17,3 +17,16 @@ ask_question_prompt is change to provide statistic description and increase the 
 ver3
 Tuning: 
 chunking size: 1000 to 500, top_N: 3 to 5, overlap: 200 to 100 
+
+ver4
+Tuning
+expand 6 roles on 
+    specific topic roles: 
+    1. company overview
+    2. revenue structure
+    3. profit
+    4. valuation
+    5. future outlook.
+
+Validation method: 'report to answer', let ChatGPT to verify the answer by itself.
+If matched, count 1, else count 0. scoring: sum of matched / total number of answer
